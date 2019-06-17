@@ -1,0 +1,32 @@
+html {
+    font-size: 20px; /* px means "pixels": the base font size is now ... pixels  */
+    font-family: "Lato", sans-serif; /* the rest of the output I got from Google fonts */
+    background-color: #F7F7F7;
+  }
+
+  h1 {
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;    
+    text-shadow: 3px 3px 1px #BBBBBB;
+  }
+  
+  body {
+    width: 600px;
+    margin: 30px auto;
+    background-color:  #FFFFFF;
+    padding: 20px 20px 20px 20px;
+  }
+
+  p, li {
+    font-size: 16px;    
+    line-height: 1.5;
+    letter-spacing: 0px;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+  }
